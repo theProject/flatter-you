@@ -1,6 +1,6 @@
 {
-  "name": "chatbot-ui",
-  "version": "2.0.0",
+  "name": "friend",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "chat": "supabase start && npm run db-types && npm run dev",
@@ -62,6 +62,7 @@
     "@supabase/ssr": "^0.0.10",
     "@supabase/supabase-js": "^2.38.4",
     "@tabler/icons-react": "^2.40.0",
+    "@types/unist": "^3.0.3",
     "@vercel/analytics": "^1.1.1",
     "@vercel/edge-config": "^0.4.1",
     "@xenova/transformers": "^2.13.4",
